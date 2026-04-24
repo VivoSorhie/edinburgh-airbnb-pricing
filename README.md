@@ -41,7 +41,7 @@ Source: [Inside Airbnb](http://insideairbnb.com/) — Edinburgh, scraped June 25
 
 All analysis is contained in a single Jupyter notebook:
 
-📓 **[`edinburgh_fringe_pricing_analysis.ipynb`](edinburgh_fringe_pricing_analysis.ipynb)**
+**[`edinburgh_fringe_pricing_analysis.ipynb`](edinburgh_fringe_pricing_analysis.ipynb)**
 
 The notebook is self-contained and designed to run in Google Colab or a local Jupyter environment. Simply upload the three required CSV files (`listings.csv`, `calendar.csv`, `reviews.csv`) to your runtime to execute the analysis.
 
