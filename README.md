@@ -43,7 +43,7 @@ All analysis is contained in a single Jupyter notebook:
 
 **[`edinburgh_fringe_pricing_analysis.ipynb`](edinburgh_fringe_pricing_analysis.ipynb)**
 
-The notebook is self-contained and runs end-to-end in Google Colab. It assumes the three CSV files are located at `/content/drive/MyDrive/Airbnb/`.
+The notebook is self-contained and designed to run in Google Colab or a local Jupyter environment. Simply upload the three required CSV files (`listings.csv`, `calendar.csv`, `reviews.csv`) to your runtime to execute the analysis.
 
 ## Tools
 
