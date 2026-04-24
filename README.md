@@ -19,7 +19,7 @@ This project investigates a natural experiment: when a predictable demand shock 
 
 ## Data
 
-Source: [Inside Airbnb](http://insideairbnb.com/) — Edinburgh, scraped June 25, 2019 (via [Kaggle](https://www.kaggle.com/))
+Source: [Inside Airbnb](http://insideairbnb.com/) — Edinburgh, scraped June 25, 2019 (via [Kaggle](https://www.kaggle.com/datasets/thoroc/edinburgh-inside-airbnb))
 
 | File | Description |
 |---|---|
@@ -27,7 +27,7 @@ Source: [Inside Airbnb](http://insideairbnb.com/) — Edinburgh, scraped June 25
 | `calendar.csv` | Daily price and availability for each listing (June 2019 – June 2020) |
 | `reviews.csv` | Review timestamps used to derive host activity tiers |
 
-> **Note:** Raw data files are not included in this repo due to size. Download them from the source above.
+> **Note:** Raw data files are not included in this repo due to size. Download them from the source [here](https://www.kaggle.com/datasets/thoroc/edinburgh-inside-airbnb).
 
 ## Methodology
 
@@ -41,7 +41,7 @@ Source: [Inside Airbnb](http://insideairbnb.com/) — Edinburgh, scraped June 25
 
 All analysis is contained in a single Jupyter notebook:
 
-**[`edinburgh_fringe_pricing_analysis.ipynb`](edinburgh_fringe_pricing_analysis.ipynb)**
+📓 **[`edinburgh_fringe_pricing_analysis.ipynb`](edinburgh_fringe_pricing_analysis.ipynb)**
 
 The notebook is self-contained and designed to run in Google Colab or a local Jupyter environment. Simply upload the three required CSV files (`listings.csv`, `calendar.csv`, `reviews.csv`) to your runtime to execute the analysis.
 
